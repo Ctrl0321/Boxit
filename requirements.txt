@@ -6,7 +6,7 @@ certifi==2020.11.8
 cssselect==1.1.0
 dnspython==2.0.0
 email-validator==1.1.2
-Flask==1.1.2
+Flask==1.1.4
 Flask-Admin==1.5.7
 Flask-APScheduler==1.11.0
 Flask-Bcrypt==0.7.1
